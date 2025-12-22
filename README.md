@@ -99,7 +99,7 @@ pip install -r requirements.txt
 # Launch Jupyter
 jupyter notebook
 
-# Open a6.ipynb and run all cells
+# Open market-microstructure-analysis.ipynb and run all cells
 ```
 
 #### Option 2: Download ZIP
@@ -111,16 +111,6 @@ jupyter notebook
 5. Install dependencies: `pip install -r requirements.txt`
 6. Launch Jupyter: `jupyter notebook`
 7. Open `a6.ipynb` and run the cells
-
-### Data Requirements
-
-The analysis uses `cohort_descriptive_stats.csv`, which is **included in this repository**. This file contains pre-processed statistics from SEC MIDAS data (2012Q1-2024Q1) for:
-- 100 randomly sampled stocks from 2012Q1
-- 100 randomly sampled ETFs from 2012Q1  
-- 18 metrics tracked across 49 quarters
-- Median, mean, p25, p75, and standard deviation for each metric
-
-**You can run the analysis immediately without downloading raw MIDAS data.**
 
 ---
 
@@ -189,14 +179,7 @@ This analysis challenges conventional wisdom about modern market structure:
 
 For detailed methodology, statistical analysis, comprehensive discussion, and full bibliography, see the complete technical report:
 
-**[Download PDF Report →](report/Portfolio_AI_AS1_Report.pdf)**
-
-The report includes:
-- Comprehensive literature review
-- Detailed methodology and statistical approach
-- Complete results with all 18 metrics analyzed
-- Discussion of limitations and alternative approaches
-- Implications for multiple stakeholders
+**[Download PDF Report →](/report/Portfolio_AI_AS1_Report.pdf)**
 
 ---
 
@@ -234,8 +217,7 @@ The analysis addresses three key research questions:
 For questions, collaboration opportunities, or to discuss this research:
 
 - **Portfolio**: [Your website]
-- **LinkedIn**: [Your LinkedIn]
-- **Email**: [Your email]
+- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/emma-nagy/)]
 
 ---
 
