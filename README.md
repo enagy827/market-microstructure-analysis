@@ -110,7 +110,7 @@ jupyter notebook
 4. Open terminal/command prompt and navigate to the extracted folder
 5. Install dependencies: `pip install -r requirements.txt`
 6. Launch Jupyter: `jupyter notebook`
-7. Open `a6.ipynb` and run the cells
+7. Open `market-microstructure-analysis.ipynb` and run the cells
 
 ---
 
