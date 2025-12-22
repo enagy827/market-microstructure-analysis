@@ -31,19 +31,21 @@ This project analyzes 12 years of SEC MIDAS data to understand how equity market
 
 ```
 market-microstructure-analysis/
-├── a6.ipynb                          # Complete Jupyter notebook with analysis
-├── cohort_descriptive_stats.csv     # Processed statistics (49 quarters × 18 metrics)
+├── market-microstructure-analysis.ipynb         # Complete Jupyter notebook with analysis
+├── cohort_descriptive_stats.csv                 # Processed statistics (49 quarters × 18 metrics)
 ├── outputs/
-│   └── figures/                      # Five key visualizations (PNG)
+│   └── figures/                                 # Five key visualizations (PNG)
 │       ├── key_viz_1_oddlot_volume_pct.png
 │       ├── key_viz_2_hidden_volume_pct.png
 │       ├── key_viz_3_cancel_to_trade.png
 │       ├── key_viz_4_market_activity.png
 │       └── key_viz_5_lit_trades.png
+│   └── tables/
+│       ├── cohort_descriptive_stats.csv
 ├── report/
-│   └── Portfolio_AI_AS1_Report.pdf  # Comprehensive technical report
-├── requirements.txt                  # Python dependencies
-└── README.md                         # This file
+│   └── Portfolio_AI_AS1_Report.pdf              # Comprehensive technical report
+├── requirements.txt                             # Python dependencies
+└── README.md                                    # This file
 ```
 
 ---
@@ -76,7 +78,7 @@ market-microstructure-analysis/
 
 ### View Online (No Installation Required)
 
-**[View the interactive notebook on nbviewer →](https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/a6.ipynb)**
+**[View the interactive notebook on nbviewer →](https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/market_microstructure_analysis.ipynb)**
 
 ### Run Locally
 
