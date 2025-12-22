@@ -4,7 +4,7 @@
 **Date:** August 2024  
 **Data Source:** SEC MIDAS (2012Q1-2024Q1)
 
-[![View Notebook](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)]([https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/a6.ipynb](https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/market_microstructure_analysis.ipynb))
+[![View Notebook](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/market_microstructure_analysis.ipynb)
 [![PDF Report](https://img.shields.io/badge/Download-PDF%20Report-red?logo=adobe)](report/Portfolio_AI_AS1_Report.pdf)
 
 ---
