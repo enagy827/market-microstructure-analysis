@@ -216,7 +216,7 @@ The analysis addresses three key research questions:
 
 For questions, collaboration opportunities, or to discuss this research:
 
-- **Portfolio**: [Your website]
+- **Portfolio**: [[emmanagy.net](https://www.emmanagy.net/)]
 - **LinkedIn**: [[Emma Nagy](https://www.linkedin.com/in/emma-nagy/)]
 
 ---
