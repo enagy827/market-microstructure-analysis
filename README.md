@@ -1,7 +1,7 @@
 # Market Microstructure Evolution: A Decade of Trading Pattern Analysis
 
 **Author:** Emma Nagy  
-**Date:** August 2024  
+**Date:** August 2025  
 **Data Source:** SEC MIDAS (2012Q1-2024Q1)
 
 [![View Notebook](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/enagy827/market-microstructure-analysis/blob/main/market_microstructure_analysis.ipynb)
@@ -239,4 +239,4 @@ This project is available for educational and research purposes. Please credit a
 
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
